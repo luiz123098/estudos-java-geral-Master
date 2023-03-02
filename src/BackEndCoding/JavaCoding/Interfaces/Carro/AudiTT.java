@@ -1,10 +1,10 @@
 package BackEndCoding.JavaCoding.Interfaces.Carro;
 
 public class AudiTT extends Carro implements Esportivo {
-    AudiTT(){
+    AudiTT(int velocidadeMaxima){
         velociadadeMaxima = 500;
     }
-    AudiTT(int velocidadeAtual){
+    AudiTT(){
     super(velocidadeAtual);
     delta = 15;
     }
