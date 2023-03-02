@@ -1,4 +1,4 @@
-package BackEndCoding.JavaCoding.Codes.EstudosRelacoes.Jogo;
+package BackEndCoding.JavaCoding.Codes.Heranca.Jogo;
 
 import BackEndCoding.JavaCoding.enums.Direcao;
 

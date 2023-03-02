@@ -1,5 +1,6 @@
 package BackEndCoding.JavaCoding.Codes.EspressoesMatematicas.JuncaoMat;
 import BackEndCoding.JavaCoding.Codes.EspressoesMatematicas.DesafioTabuada.Tabuada;
+import BackEndCoding.JavaCoding.Codes.EspressoesMatematicas.*;
 import java.util.Scanner;
 public class CalculosMatJuntos {
     public void ChamaTabuada() {Tabuada tab = new Tabuada();  tab.ExecutandoTabuada();}
