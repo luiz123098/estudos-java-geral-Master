@@ -1,4 +1,4 @@
-package BackEndCoding.JavaCoding.Class.ExerciciosJavaAvancado.PedraPapelTesoura;
+package BackEndCoding.JavaCoding.Class.ExerciciosJavaVariados.PedraPapelTesoura;
 
 import java.util.Scanner;
 

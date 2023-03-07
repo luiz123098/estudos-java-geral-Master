@@ -1,4 +1,4 @@
-package BackEndCoding.JavaCoding.Class.ExerciciosJavaAvancado;
+package BackEndCoding.JavaCoding.Class.ExerciciosJavaVariados;
 
 public class ExercicioDoisPontos {
     public static void main(String[] args) {

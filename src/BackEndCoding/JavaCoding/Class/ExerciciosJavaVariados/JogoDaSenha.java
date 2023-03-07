@@ -1,4 +1,4 @@
-package BackEndCoding.JavaCoding.Class.ExerciciosJavaAvancado;
+package BackEndCoding.JavaCoding.Class.ExerciciosJavaVariados;
 
 import java.util.Scanner;
 

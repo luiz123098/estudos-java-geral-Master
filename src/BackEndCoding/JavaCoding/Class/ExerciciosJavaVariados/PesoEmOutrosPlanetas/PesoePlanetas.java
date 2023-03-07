@@ -1,4 +1,4 @@
-package BackEndCoding.JavaCoding.Class.ExerciciosJavaAvancado.PesoEmOutrosPlanetas;
+package BackEndCoding.JavaCoding.Class.ExerciciosJavaVariados.PesoEmOutrosPlanetas;
 
 public class PesoePlanetas {
 
