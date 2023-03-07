@@ -5,7 +5,7 @@ public class AudiTT extends Carro implements Esportivo {
         velociadadeMaxima = 500;
     }
     AudiTT(){
-    super(velocidadeAtual);
+    super();
     delta = 15;
     }
 
